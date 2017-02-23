@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_2ffe7f0728bec9ea44d8bec6a7476ab8981c6a5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="580737818c32d978c7da63a3a0d049d2e88f9795">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f9d7de361a50115ec6eea3856d95fbcac6ba3d51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_cb0e6f9f6eababcff00b15b463bb3b2566a2d479\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a22a645a80e35d9f47f97c54905b4fd2b747bc51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_7c089b8230e2031d976ade75418be2eda9a3125a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.applozic.communication.message\mobicomkit\4.70\jars\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4604f46bdb50e47d0311f5e04f6612fb1cfbd0d8">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.android.service-1.0.2_01ef8a9dec6cedcfb84e2a38df8931431abc8e3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.5.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d8334c5cb1948de5dde77f8b72c82991af32f8a">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-2.5.7_0142d51d202144a145cbfce96f661f362876b5c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_2bdf93d7e2bc7f2f4108a2169547ff22b50e99ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.applozic.communication.uiwidget\audiovideo\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="56e5412068b8e6026fd5697c6dac6c579da7fd5b">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.applozic.communication.uiwidget-audiovideo-1.0_94c95db02b93edbb63f9075c5775fd088f740534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_b73495eaf3331ce89c55abea31adfc7b8464ea8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_a2d19871e2ed0fdb319a37d1bf8f8c79629065c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.applozic.mobiframework\mobicommons\4.70\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="48f55e5a6ef88905f0c63010fa3302593f99734d">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.applozic.mobiframework-mobicommons-4.70_ada926da7a4eadb59abbef97dc5d2bf39c018bb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0362076a0fa8c125691f759ba4652f11ad31b05a">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-beta-1.1.6_8c5b428916aef80846ce2720b3d043bea10b5d03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_1e5828afedaf2f47d348989f45c690afc2170098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_71e05ba98af665f06641dcc4560c174a73224907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_81ca2206b574c30c8713f4d70ca3019169c16e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_6204fee4ddabdb5a4f558fdf6d8c7392e817ed62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.soundcloud.android\android-crop\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.soundcloud.android-android-crop-1.0.1_1996043e426927e136328458ec1568b1605fa7e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f9a9b21b70965cde70f6eb8f2ee68794fb482e6">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-core-2.3.10_ae4a7f5ce0c6dc48fee1156215fa941c2de02db8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2c9326285b846ccb401a7298417bc31b511993ef">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b20265309cc5fcaadf4d5981558f920ef001c35b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_f1ccbe6c60245c744c1de2b058d120581891899e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_adde7f729928225f0c007c93643e7b784ebc9d13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_d7063cee129b445de543fe866013349c37a557da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_adb852b0ea4521423e6ae0b3832a19c184086b6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.applozic.communication.message\mobicomkit\4.70\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e02f80ce0e1f152b419d899034dde5343e0f2b0">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.applozic.communication.message-mobicomkit-4.70_4ebccf8f0dad18709dd2df66cf21a9aa68b91ab5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_812564ae6c7d3c2c6312e20c31a13502b3e4f889\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_c5af2fafd81e2ea2325f2816991e8b6c2ae65078\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.2_ccc59a823ea70728a8c95789b18476689dffa2a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.twilio\video-android\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3a1d5432832c66425ef769c8754ebb2174cb0a71">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twilio-video-android-1.0.0-beta4_67c6da4511eaadf3195b66f6cc3c3dbd0903930a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_bc97ead13cd3b9f9c491693bd33764fb236b5c35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.applozic.communication.uiwidget\mobicomkitui\4.70\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c57a1c34a399f305dbffa4cbe5077ef5f775b6d9">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.applozic.communication.uiwidget-mobicomkitui-4.70_f89a6891a6c19ff5d844071331dbc82ca7549c99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.2.1_5c4ac4ce2dbf5b8245675b422f5db6f1465e7f6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.applozic.communication.message\mobicomkit\4.70\jars\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3a0d4d7493bf9cee83f80276b08d955adf31d5">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.client.mqttv3-1.0.2_fed07f25aa06b74a17e64e6207a904b843a136c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.twilio\video-android\1.0.0-beta4\jars\libs\libjingle_peerconnection_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a3023c3600899d7fa038af256d66dde05bd27805">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\libjingle_peerconnection_java_202353bee21e7c68f8b145a910ac92d8d7be5019\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0c46a5a897439810b6c437ce188bd07d9d8dffb0">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-answers-1.3.8_179b36b8911a03ff80aad11849bdb3c9b9dbe289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.12\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3575e73a22dce98f0bdbcdb475ef55a84606a9a6">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.12_a4f9209612e45f4f0bc86a03618d35fbec46e423\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_d1bae7cabfd926309ade5ffb5fd3a9ca0f3bc6c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\krantibijay.m\Documents\Kranti\Android_Apps\Applozic_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_f94e90ad56090f88e5ffc1de79dd885becf93b12\classes.dex" />
+    </item>
+
+</items>

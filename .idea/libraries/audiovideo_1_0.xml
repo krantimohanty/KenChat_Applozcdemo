@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="audiovideo-1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/audiovideo/1.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/audiovideo/1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applozic.communication.uiwidget/audiovideo/1.0/e238f6abdd57d06a20748bb872de591064f6328b/audiovideo-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

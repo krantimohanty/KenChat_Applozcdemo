@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mobicommons-4.70">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.applozic.mobiframework/mobicommons/4.70/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.applozic.mobiframework/mobicommons/4.70/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applozic.mobiframework/mobicommons/4.70/84e6f87c1ce15aedb6821e13df6895d8dc7a9254/mobicommons-4.70-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applozic.mobiframework/mobicommons/4.70/84e6f87c1ce15aedb6821e13df6895d8dc7a9254/mobicommons-4.70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
